@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Menu';
-    src: url('./assets/fonts/Inter/Inter-Regular.ttf');
+    src: url('./fonts/Inter/Inter-Regular.ttf');
 }
 
 @font-face {
     font-family: 'Titulo2';
-    src: url('./assets/fonts/Inter/Inter-SemiBold.ttf');
+    src: url('./fonts/Inter/Inter-SemiBold.ttf');
 }
 
 @font-face {
     font-family: 'Romanesco';
-    src: url('./assets/fonts/Romanesco/Romanesco-Regular.ttf');
+    src: url('./fonts/Romanesco/Romanesco-Regular.ttf');
 }
 
 /* ========================================================================================= */
@@ -90,7 +90,7 @@ header ul li:hover {
 /* ========================================================================================= */
 
 .phrase {
-    background-image: url('/assets/images/main.png');
+    background-image: url('/images/main.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
