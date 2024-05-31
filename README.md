@@ -16,7 +16,7 @@ Este proyecto forma parte del curso de Aplicaciones Web ISWD613 en el semestre 2
 ¡Espero que este proyecto sea una experiencia divertida y desafiante para todos los estudiantes! ¡Buena suerte y disfruta desarrollando tu propia Página Web!
 
 ## Recursos
-- Herramientas: HTML, CSS.
+- Herramientas: HTML y CSS.
 - Imagen de referencia a replicar:
 
 ![SPA.jpg](./assets/images/SPA.jpg)
@@ -39,7 +39,5 @@ This project is part of the Web Applications ISWD613 course in the 2024-A semest
 I hope this project is a fun and challenging experience for all students! Good luck and enjoy developing your own Web Page!
 
 ## Resources
-- Tools: HTML, CSS.
+- Tools: HTML and CSS.
 - Reference image to replicate:
-
-![SPA.jpg](./assets/images/SPA.jpg)
