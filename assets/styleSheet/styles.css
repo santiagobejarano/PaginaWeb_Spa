@@ -37,7 +37,7 @@ header ul li:hover {
     color: #FFFF00
 }
 
-.opciones {
+.options {
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
@@ -45,7 +45,7 @@ header ul li:hover {
     margin: 0px;
 }
 
-.opciones ul {
+.options ul {
     display: flex;
     list-style: none;
     gap: 20px;
@@ -53,7 +53,7 @@ header ul li:hover {
     margin: 0px;
 }
 
-.usuario {
+.user {
     display: flex;
     justify-content: right;
     box-sizing: border-box;
@@ -62,7 +62,7 @@ header ul li:hover {
     flex-grow: 1;
 }
 
-.usuario ul {
+.user ul {
     display: flex;
     list-style: none;
     gap: 20px;
@@ -71,18 +71,57 @@ header ul li:hover {
     align-items: center;
 }
 
-.idioma {
+.language {
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
     margin: 0px;
 }
 
-.idioma ul {
+.language ul {
     display: flex;
     list-style: none;
     gap: 20px;
     margin: 0px;
     padding-right: 15px;
     align-items: center;
+}
+
+/* ========================================================================================= */
+
+
+
+/* ========================================================================================= */
+
+.footer {
+    font-family: 'Menu';
+    font-size: 16px;
+    background-color: #384001;
+    color: #A3A656;
+    box-sizing: border-box;
+    height: 97px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer ul {
+    display: flex;
+    gap: 20px;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    align-items: center;
+}
+
+footer ul li:hover {
+    color: #FFFF00
+}
+
+.footerLeft {
+    margin-left: 70px;
+}
+
+.footerRight {
+    margin-right: 70px;
 }
