@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Menu';
-    src: url('./assets/fonts/Inter/static/Inter-Regular.ttf');
+    src: url('/assets/fonts/Inter/Inter-Regular.ttf');
 }
 
 @font-face {
     font-family: 'Titulo2';
-    src: url('./assets/fonts/Inter/static/Inter-SemiBold.ttf');
+    src: url('/assets/fonts/Inter/Inter-SemiBold.ttf');
 }
 
 @font-face {
     font-family: 'Romanesco';
-    src: url('./assets/fonts/Romanesco/Romanesco-Regular.ttf');
+    src: url('/assets/fonts/Romanesco/Romanesco-Regular.ttf');
 }
 
 /* ========================================================================================= */
