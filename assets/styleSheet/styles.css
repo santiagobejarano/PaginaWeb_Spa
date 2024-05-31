@@ -140,7 +140,70 @@ header ul li:hover {
 
 /* ========================================================================================= */
 
+.services {
+    font-family: 'Menu';
+    display: flex;
+    box-sizing: border-box;
+    padding: 100px 40px 40px;
+    gap: 134px;
+    justify-content: space-around;
+}
 
+.services div h2 {
+    background-color: #A3A656;
+    color: #ffff;
+    box-sizing: border-box;
+    border-radius: 15px 15px 0px 0px;
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+}
+
+.services div img {
+    width: 100%;
+    height: 100%;
+}
+
+.services div .serviceDescription {
+    font-size: 16px;
+}
+
+.price {
+    display: flex;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    justify-content:space-between;
+}
+
+.price button {
+    font-family: 'Titulo2';
+    font-size: 16px;
+    background-color: #A3A656;
+    color: #ffff;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 35px;
+    height: 45px;
+    width: 155px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+.price button:hover {
+    background-color: #384001;
+}
+
+.price h3 {
+    font-size: 32px;
+    box-sizing: border-box;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+}
 
 /* ========================================================================================= */
 
