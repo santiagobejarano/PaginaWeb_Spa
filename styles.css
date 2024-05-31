@@ -120,8 +120,8 @@ header ul li:hover {
 .reservation {
     font-family: 'Menu';
     background-color: #F2F6F6;
-    display: flex;
     box-sizing: border-box;
+    display: flex;
     height: 100px;
     padding: 10px;
     align-items: center;
