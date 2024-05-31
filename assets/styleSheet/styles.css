@@ -26,10 +26,10 @@ header {
     font-family: 'Menu';
     font-size: 16px;
     background-color: #A3A656;
+    box-sizing: border-box;
     display: flex;
     height: 70px;
     align-items: center;
-    box-sizing: border-box;
     justify-content: space-between;
 }
 
@@ -39,10 +39,10 @@ header ul li:hover {
 
 .options {
     display: flex;
-    justify-content: space-between;
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
+    justify-content: space-between;
 }
 
 .options ul {
@@ -55,11 +55,11 @@ header ul li:hover {
 
 .user {
     display: flex;
-    justify-content: right;
+    flex-grow: 1;
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
-    flex-grow: 1;
+    justify-content: right;
 }
 
 .user ul {
@@ -73,9 +73,9 @@ header ul li:hover {
 
 .language {
     display: flex;
-    justify-content: space-between;
     box-sizing: border-box;
     margin: 0px;
+    justify-content: space-between;
 }
 
 .language ul {
@@ -186,8 +186,8 @@ header ul li:hover {
     box-sizing: border-box;
     border: none;
     border-radius: 35px;
-    height: 45px;
-    width: 155px;
+    height: 50px;
+    width: 160px;
     margin: 10px;
     padding: 10px 20px;
 }
@@ -207,15 +207,97 @@ header ul li:hover {
 
 /* ========================================================================================= */
 
+.partners{
+    background-color: #F2F6F6;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 770px;
+    align-items: center;
+}
+
+.partners h2{
+    font-family: 'Titulo2';
+    font-size: 32px;
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+
+.memberships{
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.memberships div{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    align-items: center;
+}
+
+.memberships ul li {
+    margin-bottom: 8px;
+}
+
+.circle{
+    display: flex;
+    border: #384001 10px solid;
+    border-radius: 50%;
+    width: 255px;
+    height: 255px;
+    justify-content: center;
+}
+
+.memberships div img{
+    aspect-ratio: 233px; 
+}
+
+.memberships div h3{
+    font-family: 'Menu';
+    font-size: 24px;
+    margin: 0px;
+    padding: 7px 0px 20px;
+}
+
+.memberships div button{
+    font-family: 'Titulo2';
+    font-size: 14px;
+    background-color: #A3A656;
+    color: #ffff;
+    border: none;
+    border-radius: 35px;
+    height: 55px;
+    width: 285px;
+    margin: 20px;
+    padding: 10px 20px;
+}
+
+.memberships div button:hover{
+    background-color: #384001;
+}
+
+.memberships div ul{
+    font-family: 'Menu';
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* ========================================================================================= */
+
 .footer {
     font-family: 'Menu';
     font-size: 16px;
     background-color: #384001;
     color: #A3A656;
     box-sizing: border-box;
+    display: flex;
     height: 97px;
     margin: 0px;
-    display: flex;
     justify-content: space-between;
 }
 
