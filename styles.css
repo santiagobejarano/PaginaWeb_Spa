@@ -90,7 +90,7 @@ header ul li:hover {
 /* ========================================================================================= */
 
 .phrase {
-    background-image: url('./images/main.png');
+    background-image: url(./images/main.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
