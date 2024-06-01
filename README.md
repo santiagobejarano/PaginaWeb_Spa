@@ -18,8 +18,12 @@ Este proyecto forma parte del curso de Aplicaciones Web ISWD613 en el semestre 2
 ## Recursos
 - Herramientas: HTML y CSS.
 - Imagen de referencia a replicar:
+<a name="Recursos"></a>
+![SPA.jpg](images/SPA.jpg)
 
-![SPA.jpg](./assets/images/SPA.jpg)
+## Resolución Tarea
+[PaginaWeb SPA](https://santiagobejarano.github.io/PaginaWeb_Spa/)
+
 
 # SPA Web Page Project - ISWD613
 
@@ -40,4 +44,7 @@ I hope this project is a fun and challenging experience for all students! Good l
 
 ## Resources
 - Tools: HTML and CSS.
-- Reference image to replicate:
+- [Reference image to replicate](#recursos)
+
+## Task Resolution
+[SPA WebPage](https://santiagobejarano.github.io/PaginaWeb_Spa/)
